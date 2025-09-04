@@ -13,6 +13,6 @@
 - [Atividade - 09](https://github.com/Augusto1804/Atividade-09)
 - [Atividade - 10](https://github.com/Augusto1804/Atividade-10)
 - [Atividade - 11](https://github.com/Augusto1804/Atividade-11)
-- Atividade - 12
+- [Atividade - 12](https://github.com/Augusto1804/Atividade-12)
 - Atividade - 13
 - Atividade - 14
