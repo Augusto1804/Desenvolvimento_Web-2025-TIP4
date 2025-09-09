@@ -3,7 +3,7 @@
 **Atividades - Desenvolvimento Web**
 
 - [Atividade - 01](https://augusto1804.github.io/Atividade-01/)
-- [Atividade - 02](https://github.com/Augusto1804/Atividade-02)
+- [Atividade - 02](https://augusto1804.github.io/Atividade-02/)
 - [Atividade - 03](https://github.com/Augusto1804/Atividade-03)
 - [Atividade - 04](https://github.com/Augusto1804/Atividade-04)
 - [Atividade - 05](https://github.com/Augusto1804/Atividade-05)
