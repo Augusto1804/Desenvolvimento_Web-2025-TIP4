@@ -1,7 +1,9 @@
 # Desenvolvimento_Web-2025-TIP4
 
 **Atividades - Desenvolvimento Web**
+
 **Estudante: João Augusto Gonsaga de Castro**
+
 **Professor: Thomaz Maia**
 
 Este trabalho reúne as 14 atividades realizadas durante a disciplina **Desenvolvimento Web I**, cada uma com o propósito de exercitar e compreender melhor os fundamentos do HTML.  
