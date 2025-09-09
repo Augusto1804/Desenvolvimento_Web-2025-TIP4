@@ -1,6 +1,15 @@
 # Desenvolvimento_Web-2025-TIP4
 
 **Atividades - Desenvolvimento Web**
+**Estudante: João Augusto Gonsaga de Castro**
+**Professor: Thomaz Maia**
+
+Este trabalho reúne as 14 atividades realizadas durante a disciplina **Desenvolvimento Web I**, cada uma com o propósito de exercitar e compreender melhor os fundamentos do HTML.  
+
+Ao longo das atividades, foi possível aprender e aplicar conceitos que vão desde a estrutura básica de uma página até recursos como listas, tabelas, formulários e elementos semânticos.  
+
+ cada exercício teve um papel importante no processo de aprendizado, ajudando a transformar a teoria em prática e a desenvolver uma base mais sólida para a criação de páginas web simples, organizadas e acessíveis.
+
 
 - [Atividade - 01](https://augusto1804.github.io/Atividade-01/)
 - [Atividade - 02](https://augusto1804.github.io/Atividade-02/)
